@@ -38,3 +38,9 @@ want to write about your project.
 
 Anyone and everyone is welcome to [contribute](/idmodmc/idmodmc/blob/master/doc/contribute.md). Hundreds of
 developers have helped make idmodmc what it is today.
+
+## About Us
+
+*Sanspeur - Programmer/Modder
+*Dustin1187 - Project Manager
+*Shonzee - Web Developer
